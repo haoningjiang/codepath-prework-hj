@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Imgur Image](https://imgur.com/1z1Zotv.jpg) 
+![]([https://imgur.com/1z1Zotv.jpg](https://github.com/haoningjiang/codepath-prework-hj/blob/main/my_walkthrough.gif)) 
 
 ## App Brainstorming (Step 4)
 
